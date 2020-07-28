@@ -68,6 +68,7 @@ function createNewAnimal(body, animalsArray) {
   return animal;
 }
 
+
 function validateAnimal(animal) {
     if (!animal.name || typeof animal.name !== 'string') {
       return false;
