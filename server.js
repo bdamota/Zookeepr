@@ -128,9 +128,9 @@ app.post('/api/animals', (req, res) => {
   }
   });
 
-  app.get('/zookeepers', (req, res) => {
+app.get('/zookeepers', (req, res) => {
     res.sendFile(path.join(__dirname, './public/zookeepers.html'));
-    });
+  });
   
 
 app.listen(PORT, () => {
