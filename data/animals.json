@@ -126,24 +126,6 @@
         "zany"
       ],
       "id": "12"
-    },
-    {
-      "name": "gorilla",
-      "species": "Gorilla ",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "zany"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "Larry ",
-      "species": "Gorilla ",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "anxious"
-      ],
-      "id": "14"
     }
   ]
 }
