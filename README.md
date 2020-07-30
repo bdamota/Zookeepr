@@ -7,6 +7,7 @@ An app to keep track of a fictional zoo's animals and zookeepers that was built 
 
 ## Technologies:
 - HTML5
+- CSS
 - JavaScript
 - Node
 - Jest
