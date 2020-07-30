@@ -12,6 +12,7 @@ An app to keep track of a fictional zoo's animals and zookeepers that was built 
 - Jest
 - Express
 - Heroku 
+- Insomnia 
 
 ## Installation:
 - Clone Repository.
