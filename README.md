@@ -24,7 +24,7 @@ An app to keep track of a fictional zoo's animals and zookeepers that was built 
 - All tests written in _ tests _ file.
 - Make sure "jest" is in package.json scripts.
 - Invoke tests using npm run test.
-- Invoke app using npm start in server.js 
+- Invoke app using npm start. 
 
 ## Live Site:
 https://zookeeperapp.herokuapp.com/
